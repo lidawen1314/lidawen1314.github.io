@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一日一贴</title>
+  <subtitle>记录工作中的点点滴滴</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.lidawen.online/"/>
+  <updated>2016-12-29T14:39:07.411Z</updated>
+  <id>http://www.lidawen.online/</id>
+  
+  <author>
+    <name>lidawen</name>
+    <email>lidawen1314@126.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一帖</title>
+    <link href="http://www.lidawen.online/2016/12/29/Post_20161229171200/"/>
+    <id>http://www.lidawen.online/2016/12/29/Post_20161229171200/</id>
+    <published>2016-12-29T07:34:48.000Z</published>
+    <updated>2016-12-29T14:39:07.411Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎各位来到我的个人博客空间灌水！</p>
+<hr>
+<p>本文链接：<a href="http://www.lidawen.online/2016/12/29/Post_20161229171200/">http://www.lidawen.online/2016/12/29/Post_20161229171200/</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;欢迎各位来到我的个人博客空间灌水！&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;本文链接：&lt;a href=&quot;http://www.lidawen.online/2016/12/29/Post_20161229171200/&quot;&gt;http://www.lidawen.online/2016/12/
+    
+    </summary>
+    
+    
+      <category term="工作" scheme="http://www.lidawen.online/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+      <category term="生活" scheme="http://www.lidawen.online/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
